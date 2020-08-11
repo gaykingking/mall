@@ -21,7 +21,7 @@ export default {
   },
   mounted(){
     //let url1="https://www.easy-mock.com/mock/5b012c1fe6e1035843cd3aff/mockapi/table/list";
-    let url2="/activity/servicetime";
+    let url2="/api/activity/servicetime";
     /*axios.get(url1).then(()=>{
 
     })*/
